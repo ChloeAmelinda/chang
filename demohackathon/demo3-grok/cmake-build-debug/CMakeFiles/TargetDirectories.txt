@@ -1,0 +1,3 @@
+D:/demohackathon/demo3-grok/cmake-build-debug/CMakeFiles/demo3_grok.dir
+D:/demohackathon/demo3-grok/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/demohackathon/demo3-grok/cmake-build-debug/CMakeFiles/rebuild_cache.dir
